@@ -1,0 +1,1 @@
+Basic Raytracer implemented in C++. Uses Phong shading. Triangle interpolation using Barycentric coordinates. The Scene could be more efficiently checked and compiled and use more shadows to give smoother image. This was the second project for CS 184 Graphics at UC Berkeley. Done with partner Aaron David Beal. 
